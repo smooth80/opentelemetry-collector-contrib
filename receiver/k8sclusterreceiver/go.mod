@@ -12,12 +12,12 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata v0.0.0-00010101000000-000000000000
 	github.com/openshift/api v0.0.0-20210521075222-e273a339932a
 	github.com/openshift/client-go v0.0.0-20210521082421-73d9475a9142
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/collector v0.31.0
-	go.opentelemetry.io/collector/model v0.31.0
+	go.opentelemetry.io/collector/model v0.50.0
 	go.uber.org/atomic v1.9.0
 	go.uber.org/zap v1.18.1
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.0
 	k8s.io/api v0.21.3
 	k8s.io/apimachinery v0.21.3
 	k8s.io/client-go v0.21.3
